@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Salut, je suis François !
 
-<!--
-**fshatoshi/fshatoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Élève ingénieur en génie informatique (1ère année) à l'école Hassania des Travaux Publics(EHTP).  
+💻 Passionné par la programmation, les réseaux et la cybersécurité.  
 
-Here are some ideas to get you started:
+## 🔨 Tech Stack
+- **Langages** : Python, C/C++, HTML, CSS, Javascript, SQL, Bash.
+- **Outils** : Git, Linux, VS Code, Code Blocks.
+- **En apprentissage** : Web Development, Programmation avancée, Sécurité des systèmes informatiques.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projets phares
+- Jeu du moulin(https://github.com/fshatoshi/jeu_du_moulin) : c'est un jeu de stratégie qui date du XIVème siècle. Se joue à deux dont l'objectif est d'éliminer les pions adverses jusqu'à ce qu'il en reste deux. Développe en C.
+- La classe complexe(https://github.com/fshatoshi/) : développé en C++, ce projet consistait à créer une classe complexe servent à définir toutes opérations applicables sur les nombres complexes dans le contexte de la programmation orientée objet.
+
+📫 **Contact** : zogbelemoufrancois2005@gmail.com | LinkedIn: www.linkedin.com/in/françois-zogbélémou-700455338/
